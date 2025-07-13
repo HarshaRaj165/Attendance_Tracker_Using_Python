@@ -21,4 +21,4 @@ A beginner-friendly desktop application to mark attendance with a simple GUI bui
 
 ✅ Conclusion
 
-The Attendance Tracker using Python and Tkinter is a practical and beginner-friendly project that demonstrates the fundamentals of GUI development, file handling, and user interaction in Python. It provides a simple yet effective way to record attendance with timestamped entries stored in a CSV file. This project serves as a great starting point for learners to build more advanced applications involving databases, authentication, and real-time data processing.
+The Attendance Tracker using Python and Tkinter is a practical and beginner-friendly project that demonstrates the fundamentals of GUI development, file handling, and user interaction in Python. It provides a simple yet effective way to record attendance with timestamped entries stored in a CSV file. This project serves me as a great starting point  to build more advanced applications involving databases, authentication, and real-time data processing.
