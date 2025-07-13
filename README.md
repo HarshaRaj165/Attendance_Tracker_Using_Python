@@ -21,13 +21,13 @@ A beginner-friendly desktop application to mark attendance with a simple GUI bui
 
 🛠️ Built With
 
-.Python 3.x
+- ✅Python 3.x
 
-.Tkinter (for GUI)
+- ✅Tkinter (for GUI)
 
-.CSV module
+- ✅CSV module
 
-.datetime module
+- ✅datetime module
 
 ✅ Conclusion
 
