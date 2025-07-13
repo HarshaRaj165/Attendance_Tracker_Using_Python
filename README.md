@@ -8,6 +8,8 @@ A beginner-friendly desktop application to mark attendance with a simple GUI bui
 
 The Attendance Tracker is a simple, interactive desktop application built using Python's Tkinter library for the graphical user interface and CSV files for data storage. This project allows users (e.g., teachers or HR personnel) to record, update, and export attendance records for individuals in an organized and efficient way.
 
+---
+
 ## 📌 Features
 
 - ✅ User-friendly interface using Tkinter
