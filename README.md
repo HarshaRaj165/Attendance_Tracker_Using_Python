@@ -16,7 +16,7 @@ A beginner-friendly desktop application to mark attendance with a simple GUI bui
 
 ## 📸 Screenshots
 
->
+>![image alt](https://github.com/HarshaRaj165/Attendance_Tracker_Using_Python/blob/3e5edcc518298d6427c93fec0db5e3d790ed90c1/Screenshot.png)
 > ![image alt](https://github.com/HarshaRaj165/Attendance_Tracker_Using_Python/blob/f4eea3f9750786eaa29bd0cb8d220c1f7a606fcd/Scrrenshot_Output.png)
 
 ```bash
